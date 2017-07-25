@@ -1,1 +1,1 @@
-my new file contents
+This is an sample hackathon file.
